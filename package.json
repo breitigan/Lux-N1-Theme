@@ -1,0 +1,13 @@
+{
+  "name": "ui-lux",
+  "displayName": "Lux",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "Built on top of Darkside by Jamie Wilson, Lux is a luxury dark theme with matching icon.",
+  "license": "MIT",
+  "engines": {
+    "nylas": "*"
+  },
+  "styleSheets": ["lux"],
+  "private": true
+}
